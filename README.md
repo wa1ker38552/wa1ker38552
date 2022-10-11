@@ -1,4 +1,6 @@
-Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I like working on webscraping, automation scripts, and API wrappers.
+Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I like working on webscraping, automation scripts, and API wrappers. I'll probably make a portfolio and get it up and running soon.
+
+I also like working on selfbots 😈
 
 **Active Projects**:
 <br>
@@ -6,5 +8,22 @@ Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I l
 [rolimons.py](https://github.com/wa1k38552/rolimons.py) - API wrapper for [rolimons](https://rolimons.com) <br>
 [schedule](https://github.com/wa1ker38552/Schedule-Tracker) - Website to track schedules and show assignments for my school
 
+**Past Projects**: <br>
+[RoTrade](https://github.com/wa1ker38552/RoTrade-PY) - Roblox API client to use for making trade bots <br>
+[moodbot](https://github.com/wa1ker38552/moodbot) - Chatbot algorithm/library using cosine similarity to help you train your own bots <br>
+[Poll](https://github.com/wa1ker38552/Poll) - Simple poll website framework with Flask as backend, has features like ip logging to avoid multiple responses <br>
 
-![python](https://img.shields.io/badge/-python-blue) ![javascript](https://img.shields.io/badge/-javascript-yellow) ![java](https://img.shields.io/badge/-java-red) ![html](https://img.shields.io/badge/-html-orange) ![C](https://img.shields.io/badge/-C-lightgrey)
+<table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195209878-9abfbecf-6afc-4fcf-b5e7-47182c6a87cc.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210437-1f0d9b97-5385-4a25-a3d0-fc7290f2202a.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195209955-c2a2a886-7107-42ba-aac0-98a562bcaa53.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210571-63854fd4-87d7-495d-a8a5-8e2dff4f798a.png" height="100" width="100"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210016-c1c6fa81-b801-4307-abd3-f4235c2bf6f4.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210045-3e2656c3-4aa2-46f3-bd67-333e7042de7a.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210112-4fd8c955-40dc-432e-8e73-53a919853369.png" height="100" width="100"/> </td>
+    <td> <img src="https://user-images.githubusercontent.com/100868154/195210784-78d26936-e88b-45d0-b920-31f312b17e0c.png" height="100" width="100"/> </td>
+  </tr>
+</table>
