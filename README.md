@@ -27,3 +27,5 @@ I also like working on selfbots 😈
     <td> <img src="https://user-images.githubusercontent.com/100868154/195210784-78d26936-e88b-45d0-b920-31f312b17e0c.png" height="100" width="100"/> </td>
   </tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=wa1ker38552)
