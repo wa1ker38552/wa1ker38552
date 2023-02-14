@@ -6,12 +6,14 @@ I also like working on selfbots 😈
 <br>
 [Autocord](https://github.com/wa1ker38552/autocord) - API wrapper for Discord centered around automation <br>
 [rolimons.py](https://github.com/wa1k38552/rolimons.py) - API wrapper for [rolimons](https://rolimons.com) <br>
-[schedule](https://github.com/wa1ker38552/Schedule-Tracker) - Website to track schedules and show assignments for my school
+[RTrade](https://github.com/wa1ker38552/rtrade) - API wrapper for [Roblox's](https://roblox.com/trades) trading system<br>
+Devous v7 - Selfbot, not releasing src until done
 
 **Past Projects**: <br>
 [RoTrade](https://github.com/wa1ker38552/RoTrade-PY) - Roblox API client to use for making trade bots <br>
 [moodbot](https://github.com/wa1ker38552/moodbot) - Chatbot algorithm/library using cosine similarity to help you train your own bots <br>
 [Poll](https://github.com/wa1ker38552/Poll) - Simple poll website framework with Flask as backend, has features like ip logging to avoid multiple responses <br>
+[Checklist](https://github.com/wa1ker38552/checklist) - Simple checklist/todo app made with Flask and Javascript
 
 <table>
   <tr>
@@ -29,3 +31,5 @@ I also like working on selfbots 😈
 </table>
 
 ![](https://komarev.com/ghpvc/?username=wa1ker38552)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=wa1ker38552)
