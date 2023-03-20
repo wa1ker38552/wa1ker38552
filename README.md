@@ -5,7 +5,7 @@ I also like working on selfbots 😈
 **Active Projects**:
 <br>
 [Autocord](https://github.com/wa1ker38552/autocord) - API wrapper for Discord centered around automation <br>
-[rolimons](https://github.com/wa1k38552/rolimons) - API wrapper for [rolimons](https://rolimons.com) <br>
+[rolimons](https://github.com/wa1k38552/rolimons.py) - API wrapper for [rolimons](https://rolimons.com) <br>
 [RTrade](https://github.com/wa1ker38552/rtrade) - API wrapper for [Roblox's](https://roblox.com/trades) trading system<br>
 [Devious v7](https://github.com/wa1ker38552/devious) - Selfbot, slowy re-writing [Devious v6](https://github.com/wa1ker38552/devious-selfbot) features.<br>
 [Fakecord v2](https://github.com/wa1ker38552/fakecord-v2) - An updated re-written version of [FakeCord](https://github.com/wa1ker38552/fakecord)<br>
