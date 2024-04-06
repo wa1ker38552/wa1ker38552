@@ -1,4 +1,4 @@
-Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I like working on webscraping, automation scripts, and API wrappers. My website -> https://cadenchau.com
+Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I like working on webscraping, automation scripts, and API wrappers.
 
 I also like working on selfbots 😈
 
