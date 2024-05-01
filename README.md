@@ -1,19 +1,4 @@
-Hey! I'm walker, a (mostly!) backend developer that enjoys creating scripts. I like working on webscraping, automation scripts, and API wrappers.
-
-I also like working on selfbots 😈
-
-**Active Projects**:
-<br>
-[rolimons](https://github.com/wa1ker38552/rolimons.py) - API wrapper for [rolimons](https://rolimons.com) <br>
-
-
-**Past Projects**: <br>
-[Checklist](https://github.com/wa1ker38552/checklist) - Simple checklist/todo app made with Flask and Javascript<br>
-[FakeCord](https://github.com/wa1ker38552/fakecord) - API client for Discord to unblock it<br>
-[Autocord](https://github.com/wa1ker38552/autocord) - API wrapper for Discord centered around automation <br>
-[RTrade](https://github.com/wa1ker38552/rtrade) - API wrapper for [Roblox's](https://roblox.com/trades) trading system<br>
-[Devious v7](https://github.com/wa1ker38552/devious) - Selfbot, slowy re-writing [Devious v6](https://github.com/wa1ker38552/devious-selfbot) features.<br>
-[Fakecord v2](https://github.com/wa1ker38552/fakecord-v2) - An updated re-written version of [FakeCord](https://github.com/wa1ker38552/fakecord)<br>
+Hey there, I'm walker. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design.
 
 <table>
   <tr>
