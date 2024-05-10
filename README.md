@@ -1,4 +1,6 @@
-Hey there, I'm walker. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design.
+Hey there, I'm walker. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design. 
+
+I spend most of my time building random sites for fun and to gain experience. I'm currently learning to work with frontend frameworks like react as well as learning tailwind. If i'm not coding, i'm probably on tetris or monkeytype
 
 <!-- 
 <table>
