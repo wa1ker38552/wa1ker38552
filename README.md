@@ -1,5 +1,6 @@
 Hey there, I'm walker. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design.
 
+<!-- 
 <table>
   <tr>
     <td> <img src="https://user-images.githubusercontent.com/100868154/195209878-9abfbecf-6afc-4fcf-b5e7-47182c6a87cc.png" height="100" width="100"/> </td>
@@ -18,3 +19,4 @@ Hey there, I'm walker. I enjoy working on random websites and tinkering with scr
 ![](https://komarev.com/ghpvc/?username=wa1ker38552)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1ker38552&layout=compact)
+-->
