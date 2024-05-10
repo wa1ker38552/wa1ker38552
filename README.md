@@ -17,6 +17,4 @@ Hey there, I'm walker. I enjoy working on random websites and tinkering with scr
 
 ![](https://komarev.com/ghpvc/?username=wa1ker38552)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=wa1ker38552)
-<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1ker38552&layout=compact)
