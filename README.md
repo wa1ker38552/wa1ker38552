@@ -2,6 +2,8 @@ Hey there, I'm walker. I enjoy working on random websites and tinkering with scr
 
 I spend most of my time building random sites for fun and to gain experience. I'm currently learning to work with frontend frameworks like react as well as learning tailwind. If i'm not coding, i'm probably on tetris or monkeytype
 
+**python - javascript- html - css (if it counts) - java - c - c++ - swift**
+
 <!-- 
 <table>
   <tr>
