@@ -1,8 +1,8 @@
 Hey there, I'm walker. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design. 
 
-I spend most of my time building random sites for fun and to gain experience. I'm currently learning to work with frontend frameworks like react as well as learning tailwind. If i'm not coding, i'm probably on tetris or monkeytype
+I spend most of my time building random sites for fun and to gain experience. I'm currently learning to work with frontend frameworks like react as well as learning tailwind. If i'm not coding, i'm probably on tetris or monkeytype. Most of my projects are open source besides the one that I made specifically for myself or I'm generating income from.
 
-**python - javascript- html - css (if it counts) - java - c - c++ - swift**
+**python, javascript, html, css, java, c, c++, swift**
 
 <!-- 
 <table>
