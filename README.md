@@ -1,4 +1,4 @@
-Hey there, I'm Caden! I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design. 
+Hey there, I'm Caden! I'm mainly a fullstack/software developer. I enjoy working on random websites and tinkering with scripts and automation. I am proficient in python and javascript, I also enjoy learning about design. 
 
 I spend most of my time building random sites for fun and to gain experience. I'm currently learning to work with frontend frameworks like react as well as learning tailwind. If i'm not coding, i'm probably on tetris or monkeytype. Most of my projects are open source besides the one that I made specifically for myself or I'm generating income from. You can view my main projects at my 
 <a href='https://cadenchau.com'>portfolio</a>
